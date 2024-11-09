@@ -1,4 +1,4 @@
-## Hi! 👋😁
+## Hello, World! 👋😁
 
 I'm a junior at UChicago studying computer science and [Fundamentals](https://college.uchicago.edu/academics/fundamentals-students).
 
