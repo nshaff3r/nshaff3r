@@ -1,6 +1,6 @@
 ## Hello, World! 👋😁
 
-I'm a junior at UChicago studying computer science and [Fundamentals](https://college.uchicago.edu/academics/fundamentals-students).
+I'm a junior at UChicago studying Computer Science and [Fundamentals](https://college.uchicago.edu/academics/fundamentals-students).
 
 - 💡 I'm passionate about humanities, arts, and using tech to support other disciplines.
 - 📰 I cover and edit arts for the [Chicago Maroon](https://chicagomaroon.com/).
